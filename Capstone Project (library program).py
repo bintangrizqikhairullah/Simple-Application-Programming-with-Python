@@ -1,6 +1,5 @@
 from tabulate import tabulate
 import os
-import math as mt
 import random as rd
 
 header=[
@@ -190,7 +189,6 @@ def validasi(attribut,input_):
 
 def new_data(kolom,type_pengisian):
         while True :
-            os.system("cls")
             if type_pengisian=="Automatis":
                 while True:
                     try:
@@ -211,7 +209,8 @@ def new_data(kolom,type_pengisian):
                         stopper()
             elif type_pengisian=="Manual":
                 while True:
-                    try:
+                    try
+                        os.system("cls")
                         bantuan_untuk_input(kolom)
                         input_manual=str(input("\nMohon masukkan data dengan cara mengetik secara manual: ").lower())
                         result=input_manual.capitalize()
