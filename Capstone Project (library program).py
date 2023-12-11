@@ -347,13 +347,13 @@ while True:
                                 elif input_kolom==4:
                                     status_baru=new_data(input_kolom-1,"Automatis")
                                     if status_baru=="Tersedia":
-                                        data[index_][5]="Tidak ada"
+                                        data[index_][input_kolom+1]="Tidak ada"
                                     else:
                                         input_peminjam=new_data(input_kolom+1,"Manual")
-                                        data[index_][5]=input_peminjam
+                                        data[index_][input_kolom+1]=input_peminjam
                                     data[index_][input_kolom]=status_baru
                                 elif input_kolom==5:
-                                    if data[index_][4]=="Tersedia":
+                                    if data[index_][input_kolom-1]=="Tersedia":
                                         print("\nBuku ini tidak sedang dalam peminjaman, mohon ubah status peminjamannya terlebih dahulu")
                                         stopper()
                                         continue
