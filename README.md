@@ -12,6 +12,9 @@ this application offers many menu:
 
 # Menu
 
+<p align="center">
+<img src="images/pic1.png" alt="Image Description" width="300"/>
+</p>
 
 
 # View book's data
