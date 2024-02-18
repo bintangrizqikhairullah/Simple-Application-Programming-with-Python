@@ -1,25 +1,19 @@
 # Library database 
 
-# READ
+Hi everyone, in this project i create a simple application that used to manage book's database of a library using python
 
-      Selamat datang di perpustakaan Alexandria, apa yang anda ingin lakukan?
-      
-      
-      1. Lihat daftar buku
-      2. Menghapus buku dari database
-      3. Menambahkan buku kedalam database
-      4. Memperbarui data buku
-      5. Exit
-
-
-
-
+this application offers many menu:
 <ol>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>View book's data</li>
+  <li>Adding a new book into the database</li>
+  <li>Removing a book from database</li>
+  <li>Updating a book's data</li>
 </ol>
 
-# CREATE
+# Menu
+
+
+
+# View book's data
 # DELETE
 # UPDATE
