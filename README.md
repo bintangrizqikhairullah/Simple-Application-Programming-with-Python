@@ -1,6 +1,6 @@
 # Library database 
 
-Hi everyone, in this project i create a simple application that used to manage book's database of a library using python
+Hi everyone, in this project i created a simple application that used to manage book's database of a library using python
 
 this application offers many menu:
 <ol>
