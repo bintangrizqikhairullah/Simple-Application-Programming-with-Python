@@ -1,6 +1,6 @@
 # Library database 
 
-Hi everyone, in this project i created a simple application that used to manage book's database of a library using python
+Hi everyone, in this project i created a simple application that used to manage book's database of a library using python.
 
 this application offers many menu:
 <ol>
@@ -13,9 +13,11 @@ this application offers many menu:
 <img src="images/pic1.png" alt="Image Description" width="500"/>
 </p>
 
-To use the menu, user will have to input integer from 1 to 4.
+To use the menu, user's will enter a number from 1 to 4.
 
 # View book's data
+
+To view book's database, enter number 1 on the main menu
 
 <p align="center">
 <img src="images/pic2.png" alt="Image Description" width="500"/>
@@ -39,13 +41,17 @@ if the users choose to see books with certain category, users will have to input
 <img src="images/pic5.png" alt="Image Description" width="500"/>
 </p>
 
-After choosing the category, books with the category will be displayed
+After choosing the category, books with the category will be displayed.
+
 # Removing a book from database
+
+To remove a book's data from the database, enter the number 3 on the main menu.
+
 <p align="center">
 <img src="images/pic6.png" alt="Image Description" width="500"/>
 </p>
 
-To remove a book from the database, user will have to input the id of the book that will be removed, in this example the book with id ISBN-100-85901 will be removed.
+After that, user's will have to input the id of the book that will be removed, in this example the book with id ISBN-100-85901 will be removed.
 
 <p align="center">
 <img src="images/pic7.png" alt="Image Description" width="500"/>
@@ -55,15 +61,23 @@ After inputing the book's id, a notification will appear to inform the book with
 
 # Adding a new book into the database
 
+To add new books into the database, enter the number 2 on the main menu.
+
 <p align="center">
 <img src="images/pic8.png" alt="Image Description" width="500"/>
 </p>
+
+After that, users will have to input the type of book by using integer's that displayed.
 
 <p align="center">
 <img src="images/pic9.png" alt="Image Description" width="500"/>
 </p>
 
+Lastly, the users will have to enter the book's name manually 
+
 # Updating a book's data
+
+To remove a book's data from the database, enter the number 4 on the main menu.
 
 <p align="center">
 <img src="images/pic9.png" alt="Image Description" width="500"/>
