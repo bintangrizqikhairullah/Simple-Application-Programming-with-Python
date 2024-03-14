@@ -67,25 +67,19 @@ To add new books into the database, enter the number 2 on the main menu.
 <img src="images/pic8.png" alt="Image Description" width="500"/>
 </p>
 
-After that, users will have to input the type of book by using integer's that displayed.
+After that, users will have to input the type of book by using integer's that displayed and the users will have to enter the book's name manually 
 
-<p align="center">
-<img src="images/pic9.png" alt="Image Description" width="500"/>
-</p>
 
-Lastly, the users will have to enter the book's name manually 
 
 # Updating a book's data
 
 To remove a book's data from the database, enter the number 4 on the main menu.
 
 <p align="center">
-<img src="images/pic9.png" alt="Image Description" width="500"/>
-</p>
-
-<p align="center">
 <img src="images/pic10.png" alt="Image Description" width="500"/>
 </p>
+
+In this part,to choose which book's data will updated, users will have to input the book's id
 
 <p align="center">
 <img src="images/pic11.png" alt="Image Description" width="500"/>
