@@ -79,12 +79,16 @@ To remove a book's data from the database, enter the number 4 on the main menu.
 <img src="images/pic10.png" alt="Image Description" width="500"/>
 </p>
 
-In this part,to choose which book's data will updated, users will have to input the book's id
+In this part, to choose which book's data will updated, users will have to input the book's id
 
 <p align="center">
 <img src="images/pic11.png" alt="Image Description" width="500"/>
 </p>
 
+After the book has been chosen, users will choose what information that will be change, if the user choose to update the type of the book, the first 3 digit's of its id will be changed.
+
 <p align="center">
 <img src="images/pic12.png" alt="Image Description" width="500"/>
 </p>
+
+A notification will appear if the book's data has been succesfully updated
